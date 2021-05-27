@@ -1,0 +1,12 @@
+npm init -y
+
+npm i react react-dom tsconfig.json
+npm i --save-dev typescript
+npm i --save-dev @types/react @types/react-dom
+
+//config typescript
+30
+
+// graphql configurator
+
++--+/8/5npx graphql-codegen init
